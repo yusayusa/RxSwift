@@ -18,7 +18,7 @@ GEM
     multipart-post (2.0.0)
     octokit (4.3.0)
       sawyer (~> 0.7.0, >= 0.5.3)
-    redcarpet (3.3.4)
+    redcarpet (3.5.1)
     sawyer (0.7.0)
       addressable (>= 2.3.5, < 2.5)
       faraday (~> 0.8, < 0.10)
